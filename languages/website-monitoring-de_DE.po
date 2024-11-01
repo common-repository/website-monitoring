@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Monitoring\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-06 19:19+0000\n"
+"PO-Revision-Date: 2018-03-16 19:04+0100\n"
+"Last-Translator: Brandon Line <brandon@brandonline.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 &&(n"
+"%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Name of the plugin
+msgid "Super Monitoring"
+msgstr "Super Monitoring"
+
+#. Description of the plugin
+msgid ""
+"Monitor your blog's uptime with www.supermonitoring.com services - and have "
+"all the charts and tables displayed in your WordPress panel."
+msgstr ""
+"Überwachen Sie die Verfügbarkeit Ihres Blogs mit www.supermonitoring.com "
+"services - und lassen Sie alle Diagramme und Tabellen in Ihrem WordPress-"
+"Panel anzeigen."
+
+#. URI of the plugin
+msgid "https://www.supermonitoring.com/p/wordpress-plugin"
+msgstr "https://www.supermonitoring.com/p/wordpress-plugin"
+
+msgid "https://www.supermonitoring.com/API/"
+msgstr "https://www.supermonitoring.com/API/"
+
+msgid ""
+"<strong>Super Monitoring</strong> plugin is almost ready. You only need to "
+"<a href=\\\"options-general.php?page=website-monitoring/supermonitoring.php\\"
+"\">configure it</a>."
+msgstr ""
+"<strong>Super Monitoring</strong> Plugin ist fast fertig. Sie müssen es nur "
+"<a href=\\\"options-general.php?page=website-monitoring/supermonitoring.php\\"
+"\">konfigurieren</a>."
+
+msgid "Super Monitoring - plugin settings"
+msgstr "Super Monitoring - Plugin-Einstellungen"
+
+msgid ""
+"If you already have a subscription at www.supermonitoring.com, enter your "
+"token to integrate the service with WordPress panel."
+msgstr ""
+"Wenn Sie bereits ein Abonnement bei www.supermonitoring.de haben, geben Sie "
+"Ihr Token ein, um den Dienst in WordPress Panel zu integrieren."
+
+msgid "Authorization token:"
+msgstr "Autorisierungs-Token:"
+
+msgid ""
+"You can find the token in your Account Settings at <a href=\"https://www."
+"supermonitoring.com/\" target=\"_blank\">www.supermonitoring.com</a>."
+msgstr ""
+"Sie finden das Token in Ihren Kontoeinstellungen unter <a href=\"https://www."
+"supermonitoring.de/\" target=\"_blank\">www.supermonitoring.de</a>."
+
+msgid "Language:"
+msgstr "Sprache:"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid ""
+"If you don`t have an account at www.supermonitoring.com yet, <a href="
+"\"https://www.supermonitoring.com/landing/page1/?"
+"utm_source=WordPress&utm_medium=text&utm_campaign=plugin\" target=\"_blank"
+"\"><strong>sign up here</strong></a> for a 14-day free trial."
+msgstr ""
+"Wenn Sie noch kein Konto bei www.supermonitoring.de haben, <a href=\"https://"
+"www.supermonitoring.com/landing/page1/?"
+"utm_source=WordPress&utm_medium=text&utm_campaign=plugin\" target=\"_blank"
+"\"><strong>melden Sie sich hier</strong></a> für eine 14-tägige kostenlose "
+"Testversion an."
+
+msgid "Your Checks"
+msgstr "Ihre Tests"
+
+msgid "Your Account"
+msgstr "Ihr Konto"
+
+msgid "Your Contacts"
+msgstr "Ihre Kontakte"
+
+msgid ""
+"Invalid token. You can obtain your token in your Account Settings at <a href="
+"\\\"https://www.supermonitoring.com/\\\" target=\\\"_blank\\\">www."
+"supermonitoring.com</a>."
+msgstr ""
+"Ungültiges Token. Sie können Ihr Token in Ihren Kontoeinstellungen unter <a "
+"href=\\\"https://www.supermonitoring.de/\\\" target=\\\"_blank\\\">www."
+"supermonitoring.de</a> erhalten."
+
+msgid "Changes have been saved."
+msgstr "Die Änderungen wurden gespeichert"
+
+msgid "www.supermonitoring.com"
+msgstr "www.supermonitoring.de"
+
+#. Text in function
+#: supermonitoring.php:195
+msgid ""
+"<strong>Super Monitoring</strong> plugin is almost ready. You only need to"
+msgstr ""
+"<strong>Super Monitoring</strong> Plugin ist fast fertig. Sie müssen es nur"
+
+#. Text in function
+#: supermonitoring.php:195
+msgid "configure it"
+msgstr "konfigurieren"

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Monitoring\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-06 19:19+0000\n"
+"PO-Revision-Date: 2018-03-09 21:46+0100\n"
+"Last-Translator: Brandon Line <brandon@brandonline.pl>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Name of the plugin
+msgid "Super Monitoring"
+msgstr "Super Monitoring"
+
+#. Description of the plugin
+msgid ""
+"Monitor your blog's uptime with www.supermonitoring.com services - and have "
+"all the charts and tables displayed in your WordPress panel."
+msgstr ""
+"Supervise el tiempo de actividad de su blog con los servicios de www."
+"supermonitoring.com y haga que todos los gráficos y tablas aparezcan en su "
+"panel de WordPress."
+
+#. URI of the plugin
+msgid "https://www.supermonitoring.com/p/wordpress-plugin"
+msgstr "https://www.supermonitoring.com/p/wordpress-plugin"
+
+msgid "https://www.supermonitoring.com/API/"
+msgstr "https://www.supermonitoring.com/API/"
+
+msgid ""
+"<strong>Super Monitoring</strong> plugin is almost ready. You only need to "
+"<a href=\\\"options-general.php?page=website-monitoring/supermonitoring.php\\"
+"\">configure it</a>."
+msgstr ""
+"<strong>Super Monitoring</strong> plugin está casi listo. Sólo tienes que <a "
+"href=\\\"options-general.php?page=website-monitoring/supermonitoring.php\\"
+"\">configurarlo</a>."
+
+msgid "Super Monitoring - plugin settings"
+msgstr "Super Monitoring - configuración del plugin"
+
+msgid ""
+"If you already have a subscription at www.supermonitoring.com, enter your "
+"token to integrate the service with WordPress panel."
+msgstr ""
+"Si ya tiene una suscripción a www.supermonitoring.com, introduzca su token "
+"de integrar el servicio con el panel de WordPress."
+
+msgid "Authorization token:"
+msgstr "Token de autorización:"
+
+msgid ""
+"You can find the token in your Account Settings at <a href=\"https://www."
+"supermonitoring.com/\" target=\"_blank\">www.supermonitoring.com</a>."
+msgstr ""
+"Usted puede encontrar el token de configuración de tu cuenta en <a href="
+"\"http://www.monitoreo-sitios.com/\" target=\"_blank\">www.monitoreo-sitios."
+"com</a>."
+
+msgid "Language:"
+msgstr "Idioma:"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid ""
+"If you don`t have an account at www.supermonitoring.com yet, <a href="
+"\"https://www.supermonitoring.com/landing/page1/?"
+"utm_source=WordPress&utm_medium=text&utm_campaign=plugin\" target=\"_blank"
+"\"><strong>sign up here</strong></a> for a 14-day free trial."
+msgstr ""
+"Si usted no tiene una cuenta en www.monitoreo-sitios.com todavía, <a href="
+"\"https://www.supermonitoring.com/landing/page1/?"
+"utm_source=WordPress&utm_medium=text&utm_campaign=plugin\" target=\"_blank"
+"\"><strong>regístrese aquí</strong></a> para una prueba gratuita de 14 días."
+
+msgid "Your Checks"
+msgstr "Su sitios web"
+
+msgid "Your Account"
+msgstr "Su suenta"
+
+msgid "Your Contacts"
+msgstr "Sus contactos"
+
+msgid ""
+"Invalid token. You can obtain your token in your Account Settings at <a href="
+"\\\"https://www.supermonitoring.com/\\\" target=\\\"_blank\\\">www."
+"supermonitoring.com</a>."
+msgstr ""
+"Token incorrecta. Usted puede obtener su ficha en configuración de tu cuenta "
+"en <a href=\\\"http://www.monitoreo-sitios.com/\\\" target=\\\"_blank\\"
+"\">www.monitoreo-sitios.com</a>."
+
+msgid "Changes have been saved."
+msgstr "Los cambios se han guardado."
+
+msgid "www.supermonitoring.com"
+msgstr "www.supermonitoring.com"
+
+#. Text in function
+#: supermonitoring.php:195
+msgid ""
+"<strong>Super Monitoring</strong> plugin is almost ready. You only need to"
+msgstr ""
+"<strong>Super Monitoring</strong> plugin está casi listo. Sólo tienes que"
+
+#. Text in function
+#: supermonitoring.php:195
+msgid "configure it"
+msgstr "configurarlo"
